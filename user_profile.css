@@ -1,0 +1,23 @@
+#user{
+
+ color:black
+}
+hr{
+
+    color:green
+}
+p{
+    font-size: 20px
+
+}
+h6{
+    font-size: 15px;
+    color :green
+}
+ a :link {
+    
+    padding: 1.5rem 2rem;
+    font-size: 1.7rem;
+    color: #fff;
+  }
+ 
